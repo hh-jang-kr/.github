@@ -8,6 +8,14 @@
 
 </div>
 
+
+<img
+  src="https://render.gitanimals.org/lines/hyunolike?pet-id=653917809856902493"
+  width="100%"
+  height="120"
+/>
+  
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -18,3 +26,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### 📘 실습 자료
+|No|실습 자료|주요 실습 키워드|
+|-|-|-|
+|-|[실시간-가상자산-시장-모니터링-플랫폼](#)|`핵사고날` `bithumb API` `Kafka` `Redis`|
