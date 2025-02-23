@@ -30,5 +30,5 @@
 ### 📘 실습 자료
 |구분|실습 자료|주요 실습 키워드|
 |-|-|-|
-|`⛔중단`|[Githuh-SVN-구축-및-실습](https://github.com/hh-jang-kr/GithubRepoWithSvnClient)|`업무` `SVN` `Github` `TortoiseSVN`|
+|`✅완료`|[Githuh-SVN-구축-및-실습](https://github.com/hh-jang-kr/GithubRepoWithSvnClient)|`업무` `SVN` `Github` `TortoiseSVN`|
 |`⛔중단`|[실시간-가상자산-시장-모니터링-플랫폼](https://github.com/hh-jang-kr/CryptoMarketMonitor)|`핵사고날` `bithumb API` `Kafka` `Redis`|
