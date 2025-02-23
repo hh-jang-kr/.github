@@ -30,4 +30,5 @@
 ### 📘 실습 자료
 |구분|실습 자료|주요 실습 키워드|
 |-|-|-|
-|`⚠️진행`|[실시간-가상자산-시장-모니터링-플랫폼](https://github.com/hh-jang-kr/CryptoMarketMonitor)|`핵사고날` `bithumb API` `Kafka` `Redis`|
+|`⚠️진행`|[Githuh-SVN-구축-및-실습](#)|`업무` `SVN` `Github` `TortoiseSVN`|
+|`⛔대기`|[실시간-가상자산-시장-모니터링-플랫폼](https://github.com/hh-jang-kr/CryptoMarketMonitor)|`핵사고날` `bithumb API` `Kafka` `Redis`|
